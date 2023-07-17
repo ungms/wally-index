@@ -1,4 +1,7 @@
 {
 	"api": "https://wally.unnamed.games/",
-	"github_oauth_id": "e1618031315f838e1da1"
+	"github_oauth_id": "e1618031315f838e1da1",
+	"fallback_registries": [
+		"https://github.com/UpliftGames/wally-index"
+	]
 }
